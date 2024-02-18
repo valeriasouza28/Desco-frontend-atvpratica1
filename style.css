@@ -1,0 +1,68 @@
+/* Estilos para o corpo do documento */
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #1d1e20;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para o título principal */
+.tituloPrincipal {
+    font-size: 24px;
+    color: #00ffae;
+    margin-top: 0;
+}
+
+/* Estilos para o conteúdo */
+.conteudo {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para o guia de informações */
+.guia {
+    background-color: #1d1e20;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Estilos para o texto do guia */
+.texto {
+    line-height: 1.5;
+    color: white;
+}
+
+/* Estilos para os links */
+a {
+    color: #00ffae;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #1d1e20;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #00ffae;
+}
+
+img {
+    border-radius: 50%;
+    widith: 30px;
+    height: 30px;
+    /*     margin-right: 10px;
+ */
+}
